@@ -4,7 +4,7 @@ title:      "Call yourself a coach!?"
 subtitle:   "Agile experts often call themself a coach, should they?"
 date:       2018-02-21 17:00:00
 author:     "David Purdie"
-header-img: "img/posts/coach-bg.jpg"
+header-img: "img/posts/Coach-bg.jpg"
 comments: true
 tags: [ Agile ]
 ---
