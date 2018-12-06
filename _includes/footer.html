@@ -74,7 +74,16 @@
                         </a>
                     </li>
                     {% endif %}
-                    {% if site.keybase_username %}
+                    {% if site.phone %}
+                    <li>
+                        <a href="tell:{{ site.phone }}">
+                            <span class="fa-stack fa-lg">
+                                <i class="fa fa-circle fa-stack-2x"></i>
+                                <i class="fa fa-phone fa-stack-1x fa-inverse"></i>
+                            </span>
+                        </a>
+                    </li>
+                    {% endif %}                    {% if site.keybase_username %}
                     <li>
                         <a href="https://keybase.io/{{ site.keybase_username }}">
                             <span class="fa-stack fa-lg">
